@@ -7,4 +7,4 @@ the training and testing purposes. CNN has been proven to produce
 excellent results for object recognition but its performance can still
 be influenced by the type of images and the number of layers of the
 CNN architecture. Experimental results indicate that the utilization
-of the images of flowers arrive to the highest accuracy of 80% respectivel
+of the images of flowers arrive to the highest accuracy of 80% respectively
